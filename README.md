@@ -9,6 +9,7 @@ Les compétences développées dans ce projet sont :
 - Apprentissage automatique
 
 MERCI BEAUCOUP !
+
 #IA
 
 @LEVI_DEVIA
